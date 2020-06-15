@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pengujian Insert Pasien Variabel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>101e935f-a291-4105-ae38-d222a9f49413</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c95b21ad-c59c-4811-b286-573cb7303543</id>
+      <masked>false</masked>
+      <name>nama</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3cad1b19-7826-493f-8961-780654bb2d0e</id>
+      <masked>false</masked>
+      <name>rekam</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4558d76a-5bea-42f0-a8e7-2c11aed06e1d</id>
+      <masked>false</masked>
+      <name>hp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8e578135-73ad-4aba-8108-01e52cb8c0bb</id>
+      <masked>false</masked>
+      <name>alamat</name>
+   </variable>
+</TestCaseEntity>
